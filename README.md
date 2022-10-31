@@ -1,4 +1,6 @@
-# Ex.No: 1 To create a database table and to display the database table field using SQLite Database in Android Studio.
+## EX NO:01
+## DATE: 
+# <p align="center">To create a database table and to display the database table field using SQLite Database in Android Studio.
 
 ## AIM:
 
@@ -372,9 +374,34 @@ public class DatabaseHelper extends SQLiteOpenHelper {
         app:layout_constraintVertical_bias="0.328" />
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
-## OUTPUT:
-![Screenshot_20221031_135831](https://user-images.githubusercontent.com/75235334/198965451-29e0fd52-a493-4d0e-9721-7f4986880cc8.png)
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
+## OUTPUT:
+ 
+<p align="center">
+  <img width="360" height="600" src="https://user-images.githubusercontent.com/75235334/198965451-29e0fd52-a493-4d0e-9721-7f4986880cc8.png">
+</p>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ### Insert
 ![Screenshot (3)](https://user-images.githubusercontent.com/75235334/198966320-76915969-b869-4fd4-9aee-4efb108ddc4b.png)
@@ -384,6 +411,12 @@ public class DatabaseHelper extends SQLiteOpenHelper {
 ![Screenshot (4)](https://user-images.githubusercontent.com/75235334/198966326-bd666465-c708-4965-a9ea-864536afaafe.png)
 
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ### Update
 ![Screenshot (2)](https://user-images.githubusercontent.com/75235334/198966295-9c916c90-a3dd-4956-88b8-d7ad06ec9320.png)
