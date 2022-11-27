@@ -31,8 +31,8 @@ Step 7: Save and run the application.
 ```
 /*
 Program to print the client/server services using AIDL”.
-Developed by: Dineshkumar V
-Registeration Number : 212220230013
+Developed by: Kumaravel V
+Registeration Number : 212220230027
 */
 ```
 
