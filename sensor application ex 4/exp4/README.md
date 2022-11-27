@@ -2,7 +2,6 @@
 ## DATE: 
 # <p align="center"> Develop a simple application to display the avaliable sensor in android mobile devices using Sensor Manager in android studio.
 
-
 ## AIM:
 
 To develop a sensor application to use the sensor manager class to identify and get the list of available sensors on a device. in Android Studio.
@@ -27,13 +26,11 @@ Step 6: Display avaliable sensor in android mobile devices.
 
 Step 7: Save and run the application.
 
-## PROGRAM:
+##  PROGRAM:
 ```
-/*
-Program to print the avaliable sensor in android mobile devices”.
+/* Program to print the avaliable sensor in android mobile devices”.
 Developed by: Kumaravel V
-Registeration Number : 212220230027
-*/
+Registeration Number : 212220230027 */
 ```
 
 ### Activity_main.xml
