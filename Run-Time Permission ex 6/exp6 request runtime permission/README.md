@@ -34,14 +34,14 @@ Step 7: Save and run the application.
 ```
 /*
 Program to Create a simple application for Run-Time Permission”.
-Developed by: Dineshkumar V
-Registeration Number : 212220230013
+Developed by: Kumaravel V
+Registeration Number : 212220230027
 */
 ```
-Activity_Main.xml
+### Activity_Main.xml
 
 
-```java
+```xml
 
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -82,7 +82,7 @@ Activity_Main.xml
 
 Manifest.xml
 
-```java
+```xml
 
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
