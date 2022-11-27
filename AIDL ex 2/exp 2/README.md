@@ -36,7 +36,7 @@ Registeration Number : 212220230027
 */
 ```
 
-AIDL Server 
+### AIDL Server 
 
 ```java
 
@@ -84,9 +84,9 @@ public class AIDLColorService extends Service {
 
 ```
 
-AndroidManifest.xml
+### AndroidManifest.xml
 
-```java
+```xml
 
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
@@ -119,13 +119,13 @@ AndroidManifest.xml
 
 ```
 
-AIDL Client
+### AIDL Client
 
 
 Activity_Main.xml
 
 
-```java
+```xml
 
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -153,7 +153,7 @@ Activity_Main.xml
 
 MainActivity.java
 
-```
+```java
 package com.example.aidlclient;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -223,7 +223,7 @@ public class MainActivity extends AppCompatActivity {
 AndroidManifest.xml
 
 
-```java
+```xml
 
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
