@@ -151,7 +151,7 @@ Activity_Main.xml
 
 ```
 
-MainActivity.java
+### MainActivity.java
 
 ```java
 package com.example.aidlclient;
@@ -220,7 +220,7 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 
-AndroidManifest.xml
+### AndroidManifest.xml
 
 
 ```xml
