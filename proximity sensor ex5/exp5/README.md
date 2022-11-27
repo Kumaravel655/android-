@@ -31,14 +31,14 @@ Step 7: Save and run the application.
 ```
 /*
 Program to print the process of proximitysensor in android mobile devices”.
-Developed by: Dineshkumar V
-Registeration Number : 212220230013
+Developed by: Kumaravel V
+Registeration Number : 212220230027
 */
 ```
 
-Activity_Main.xml
+### Activity_Main.xml
 
-```
+```xml
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -62,7 +62,7 @@ Activity_Main.xml
 </androidx.constraintlayout.widget.ConstraintLayout>
 
 ```
-Main_Activtiy.java
+### Main_Activtiy.java
 
 ```java
 package com.example.proximitysensor;
